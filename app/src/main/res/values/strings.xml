@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">APExercise1B</string>
+    <string name="app_productname">Radiant Boost Clarifying Set</string>
+    <string name="app_productprice">Price: P450.00</string>
+    <string name="app_productdescription">Product Description</string>
+    <string name="app_description">READY TO CHASE SKIN CLARITY?
+Here’s your most awaited SKINCARE SET that will clarify and purify your skin like NO OTHER. NO , MORE , DULL , DAYS! See better and clearer glow with the newest RyxSkin Radiant Boost Clarifying Set! </string>
+    <string name="app_addtocartbutton">Add to Cart</string>
+    <string name="app_productreview">Product Reviews</string>
+    <string name="app_ratingbar">5.0 out of 5</string>
+    <string name="app_ratingbarall">All</string>
+    <string name="app_ratingbarfive">5 stars (55) </string>
+    <string name="app_ratingbarwithcomment">with comments (30) </string>
+    <string name="app_review">no review yet! </string>
+</resources>
